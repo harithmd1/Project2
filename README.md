@@ -2,7 +2,7 @@
 
 
 ## Sources
-- ALPACA API for GOOGL
+- ALPACA API for MSFT
 
 
 ## Data
@@ -10,15 +10,15 @@
 
 
 ## Code
-1. Momentum Trading signal to buy or sell
+1. Momentum Trading signal to buy or sell through MACD/ADX
 
 
 2.  Neural Network Supervised Machine Learning
-- X= all columns in our data frame except y
+- X= all columns in our data (indicators) frame except y
 - y= signal
 
 
-3. Compare Neural Network accuracy, compare 3 different neural networks performance.
+3. Compare Neural Network accuracy to original method of signal generation.
 
 
 ## Analysis and visualization
