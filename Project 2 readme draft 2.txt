@@ -1,4 +1,4 @@
-##Algorithmic Trading Strategy Overview
+al network features' weights comopared##Algorithmic Trading Strategy Overview
 This repository contains code for an algorithmic trading strategy that leverages machine learning for momentum trading. The strategy is implemented in Python and uses ALPACA API for MSFT stock data. The machine learning component involves the creation of three neural networks to compare their performance.
 
 ##Dependencies
@@ -21,6 +21,7 @@ Momentum trading signals for buying or selling are generated using the code prov
 ##Neural Network Comparison:
 Three different neural networks are trained and compared.
 X includes all columns in the dataframe except for the target 'y'.
+Neural network features' weights compared.
 
 ##Analysis and Visualization:
 The performance of each neural network is analyzed for accuracy.
