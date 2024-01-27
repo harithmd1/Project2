@@ -20,9 +20,16 @@
 
 3. Compare Neural Network accuracy to original method of signal generation.
 
+4. Create two alternative neural networks to modify accuracy.
+   
+6. compare features weights for the best neural network
+
 
 ## Analysis and visualization
-- Plot the final trade predictions of the neural networks.
+- Plot the MACD/ADX signals
+- Plot the signals Histogram
+- PLot the strategy returs compared to S&P500 returns
+- Plot the neural network returs compared to original signal returns
 
 
 ## Participants:
